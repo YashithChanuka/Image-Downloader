@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.akvasoft.image_downloader;
+package com.downloader.image_downloader;
 
 import java.awt.Desktop;
 import java.awt.image.BufferedImage;
